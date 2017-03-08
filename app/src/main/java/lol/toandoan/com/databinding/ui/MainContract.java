@@ -16,5 +16,6 @@ public interface MainContract {
 
     interface Presenter {
         void fakeUser(android.view.View view);
+        void onClickUser(User user);
     }
 }

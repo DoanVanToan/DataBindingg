@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:bind="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="user"
+            type="lol.toandoan.com.databinding.model.User"/>
+
+        <variable
+            name="actionHandler"
+            type="lol.toandoan.com.databinding.ui.MainItemHandler"/>
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="@{()->actionHandler.onClickUser(user)}"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            bind:placeHolder="@{@drawable/ic_cloud_circle_black_24dp}"
+            bind:imageUrl="@{user.avatar}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:text="@{user.firstName}"/>
+    </LinearLayout>
+</layout>

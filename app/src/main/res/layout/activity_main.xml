@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layout>
+<layout xmlns:bind="http://schemas.android.com/apk/res-auto">
 
     <data>
 
@@ -15,20 +15,20 @@
             name="isShowProgress"
             type="boolean"/>
 
+        <variable
+            name="adapter"
+            type="lol.toandoan.com.databinding.ui.MainAdapter"/>
+
         <import type="android.view.View"/>
     </data>
 
     <LinearLayout
+        android:id="@+id/activity_main"
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
-        android:id="@+id/activity_main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:paddingBottom="@dimen/activity_vertical_margin"
-        android:paddingLeft="@dimen/activity_horizontal_margin"
-        android:paddingRight="@dimen/activity_horizontal_margin"
-        android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="lol.toandoan.com.databinding.ui.MainActivity">
 
         <TextView
@@ -51,6 +51,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:visibility="@{isShowProgress? View.VISIBLE: View.GONE}"/>
+
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            bind:adapter="@{adapter}"/>
+
     </LinearLayout>
 
 </layout>
