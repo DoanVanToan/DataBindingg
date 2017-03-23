@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_361d83272f70acf1ececc83ad6169147d2e59474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/glide-3.7.0_a4bdf2ceeb24c1354327c570dba99309b9465679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_6e211c797e09c26951e13c16f772b690d384a2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.daimajia.swipelayout-library-1.2.0_a272ffebf96c5e791ace7be915113b04aa555939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_5470057fecf5ce5620fe7ea12d04f27091e7ffa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Work/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.2.0/baseLibrary-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.0_621412a49235ac320e94c9ae77947139cabfb662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_5e50ab13bcb33d43edb92e5dc3e436c75e22eebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_c2511c917ad7831ac760742ec7cbc706cc71eece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_d4ffdfbf49c197fe94c5308a5be9c51b74d41026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_30a42cc5d266c0f0ca3238d4bcf38ecf0be51232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_326f35e3c9e388beda8f1027b174b68141c2a5d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_f06d8962a41ff52ef58fb805ab75aaf5802c88f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_20c3b14ac60de163de2bcdda49e68f254324dc1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_3919eb9985265c40ebad57f801c312dcd454865f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_b029626cf5337d2712cc52f3e5622ce2f4ca94be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_5f8a820ab9a59fa6c8ca6e61eb461a8a612ba0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Framgia/DataBindingg/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/framgia/Framgia/DataBindingg/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_c2251d2f79c8d37b54f286ca41780d5bfcb60c2d.jar" />
+    </item>
+
+</items>

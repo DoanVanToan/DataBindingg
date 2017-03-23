@@ -20,7 +20,6 @@ public class User<T> extends BaseObservable {
         mAvatar = avatar;
     }
 
-
     public void setId(int id) {
         mId = id;
         notifyChange();
@@ -57,4 +56,5 @@ public class User<T> extends BaseObservable {
     public void setAvatar(String avatar) {
         this.mAvatar = avatar;
     }
+
 }

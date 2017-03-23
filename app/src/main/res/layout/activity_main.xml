@@ -8,6 +8,10 @@
             type="lol.toandoan.com.databinding.model.User"/>
 
         <variable
+            name="spinner"
+            type="java.lang.String"/>
+
+        <variable
             name="presenter"
             type="lol.toandoan.com.databinding.ui.MainPresenter"/>
 
@@ -17,7 +21,7 @@
 
         <variable
             name="adapter"
-            type="lol.toandoan.com.databinding.ui.MainAdapter"/>
+            type="android.widget.ArrayAdapter"/>
 
         <import type="android.view.View"/>
     </data>
@@ -56,7 +60,15 @@
         <android.support.v7.widget.RecyclerView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            bind:adapter="@{adapter}"/>
+            android:visibility="gone"/>
+
+        <android.support.v7.widget.AppCompatSpinner
+            android:id="@+id/spinner_test"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            bind:adapter="@{adapter}"
+            bind:selection="@={spinner}"
+            />
 
     </LinearLayout>
 
